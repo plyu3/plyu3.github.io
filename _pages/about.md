@@ -15,12 +15,15 @@ My enthusiasm extends to broad fields of AI, machine learning, and healthcare, p
 
 News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Our paper [MLP can be a Good Transformer Learner](https://arxiv.org/abs/2404.05657) is on the final list in CVPR 2024. Thanks for my collaborators.
+
+Our paper [ResoNet](http://www.iapjournals.ac.cn/aas/article/id/75268321-6e4a-4bf3-aa26-e3b500c7be72) is published. A lot of thanks to my collegues.
+
+We introduce [ORCA](https://arxiv.org/abs/2405.15412), the first deep-learning powered climate seasonal forecasting model aiming to resolve long-term climate simulations.
+
+Starting in August 2022, I will be a research assistant at [Shanghai Artificial Intelligence Laboratory](https://www.linkedin.com/company/%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E9%AA%8C%E5%AE%A4/mycompany/)
+
+My project proposal received my [Hilldale Research Fellowship](https://www.cs.wisc.edu/2019-cs-department-awards/) in April 2019, Thanks a lot to Prof. Robert McDermott.
 
 Research Interests
 ------
