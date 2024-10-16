@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Pumeng Lyu"
   pronouns         : "he/his"  
-  bio              : "multi-agent system, generative AI, climate modeling"
+  bio              : # "multi-agent system, generative AI, climate modeling"
   location         : # "Earth"
   employer         : "Shanghai AI Lab"
   uri              : # URL
