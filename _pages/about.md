@@ -1,23 +1,19 @@
 ---
 permalink: /
-title: "Hello, welcome to my page"
+title: "Pumeng (James) Lyu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-About Me
-======
 My name is Pumeng Lyu. I am currently a research assistant at Shanghai AI Laboratory. I am in the AI for Science track, where my work focuses on the interdisciplinary studies between generative AI and scientific discovery, especially promoting the development of Earth Science (e.g., climate forecasting) with Artificial Intelligence.
 
-Prior to that, I received my bachelor's degree from the University of Wisconsin-Madison in 2020, double major in applied math, engineering and physics [AMEP](https://guide.wisc.edu/undergraduate/letters-science/mathematics/applied-mathematics-engineering-physics-bs-amep/) and computer sciences. I got my master’s degree from the University of Chicago in 2021, majoring in physics. 
+Prior to that, I received my bachelor's degree from the University of Wisconsin-Madison in 2020, double major in [AMEP](https://guide.wisc.edu/undergraduate/letters-science/mathematics/applied-mathematics-engineering-physics-bs-amep/) and [computer sciences]([https://github.com/academicpages/academicpages.github.io]. I got my master’s degree from the University of Chicago in 2021, majoring in physics. 
 
 My enthusiasm extends to broad fields of AI, machine learning, and healthcare, particularly spanning the areas of multimodal data fusion, generative AI, large language models (LLM), and public health.
 
-Getting started
+News
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -26,11 +22,11 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+Research Interests
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
+Blogs
 ------
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
