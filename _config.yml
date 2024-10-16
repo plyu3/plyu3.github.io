@@ -25,7 +25,7 @@ author:
   name             : "Pumeng Lyu"
   pronouns         : "he/his"  
   bio              : "multi-agent system, generative AI, climate modeling"
-  location         : "Earth"
+  location         : # "Earth"
   employer         : "Shanghai AI Lab"
   uri              : # URL
   email            : "lvpumeng@pjlab.org.cn" 
