@@ -13,7 +13,7 @@ About Me
 ======
 My name is Pumeng Lyu. I am currently a research assistant at Shanghai AI Laboratory. I am in the AI for Science track, where my work focuses on the interdisciplinary studies between generative AI and scientific discovery, especially promoting the development of Earth Science (e.g., climate forecasting) with Artificial Intelligence.
 
-Prior to that, I received my bachelor's degree from the University of Wisconsin-Madison in 2020, double major in applied math, engineering and physics [this Github repository](https://github.com/staeiou/staeiou.github.io) and computer sciences. I got my master’s degree from the University of Chicago in 2021, majoring in physics. 
+Prior to that, I received my bachelor's degree from the University of Wisconsin-Madison in 2020, double major in applied math, engineering and physics ([AMEP](https://github.com/staeiou/staeiou.github.io)) and computer sciences. I got my master’s degree from the University of Chicago in 2021, majoring in physics. 
 
 My enthusiasm extends to broad fields of AI, machine learning, and healthcare, particularly spanning the areas of multimodal data fusion, generative AI, large language models (LLM), and public health.
 
