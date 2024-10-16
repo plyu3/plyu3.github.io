@@ -17,13 +17,13 @@ News
 ======
 Our paper [MLP can be a Good Transformer Learner](https://arxiv.org/abs/2404.05657) is on the final list in CVPR 2024. Thanks for my collaborators.
 
-Our paper [ResoNet](http://www.iapjournals.ac.cn/aas/article/id/75268321-6e4a-4bf3-aa26-e3b500c7be72) is published. A lot of thanks to my collegues.
+Our paper [ResoNet](http://www.iapjournals.ac.cn/aas/article/id/75268321-6e4a-4bf3-aa26-e3b500c7be72) is published in Advanced in Atomspheric Sciences (AAS) as special issue [AI Applications in Atmospheric and Oceanic Science: Pioneering the Future](http://www.iapjournals.ac.cn/aas/en/topic?id=9134e796-acef-402e-8c28-dcd05c6816d3). A lot of thanks to my collegues.
 
 We introduce [ORCA](https://arxiv.org/abs/2405.15412), the first deep-learning powered climate seasonal forecasting model aiming to resolve long-term climate simulations.
 
-Starting in August 2022, I will be a research assistant at [Shanghai Artificial Intelligence Laboratory](https://www.linkedin.com/company/%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E9%AA%8C%E5%AE%A4/mycompany/)
+Starting in August 2022, I will be a research assistant at [Shanghai Artificial Intelligence Laboratory](https://www.linkedin.com/company/%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E9%AA%8C%E5%AE%A4/mycompany/).
 
-My project proposal received my [Hilldale Research Fellowship](https://www.cs.wisc.edu/2019-cs-department-awards/) in April 2019, Thanks a lot to Prof. Robert McDermott.
+My project proposal received my [Hilldale Research Fellowship](https://www.cs.wisc.edu/2019-cs-department-awards/) in April 2019, thanks a lot to Prof. Robert McDermott.
 
 Research Interests
 ------
