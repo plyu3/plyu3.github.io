@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Pumeng Lyu. I am currently a research assistant at Shanghai AI Laboratory. I am in the AI for Science track, where my work focuses on the interdisciplinary studies between generative AI and scientific discovery, especially promoting the development of Earth Science (e.g., climate forecasting) with Artificial Intelligence.
 
-Prior to that, I received my bachelor's degree from the University of Wisconsin-Madison in 2020, double major in [AMEP](https://guide.wisc.edu/undergraduate/letters-science/mathematics/applied-mathematics-engineering-physics-bs-amep/) and [computer sciences](https://github.com/academicpages/academicpages.github.io). I got my master’s degree from the University of Chicago in 2021, majoring in physics. 
+Prior to that, I received my bachelor's degree from the University of Wisconsin-Madison in 2020, double major in [AMEP](https://guide.wisc.edu/undergraduate/letters-science/mathematics/applied-mathematics-engineering-physics-bs-amep/) and [Computer Sciences](https://www.cs.wisc.edu/undergraduate/undergrad-program-cs/). I got my master’s degree from the University of Chicago in 2021, majoring in physics. 
 
 My enthusiasm extends to broad fields of AI, machine learning, and healthcare, particularly spanning the areas of multimodal data fusion, generative AI, large language models (LLM), and public health.
 
@@ -24,7 +24,9 @@ News
 
 Research Interests
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. LLM-based scientific knowledge
+2. Physics behind Neural Networks
+3. Universal Scientific Expression
 
 Blogs
 ------
